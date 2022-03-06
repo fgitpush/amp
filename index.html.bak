@@ -476,7 +476,7 @@ div.hfe-nav-menu{-js-display:flex;display:-webkit-box;display:-webkit-flex;displ
 @font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:400;font-display:block;src:url(https://fgitpush.github.io/amp/webfonts/fa-regular-400.eot);src:url(https://fgitpush.github.io/amp/webfonts/fa-regular-400.eot#iefix) format("embedded-opentype"),url(https://fgitpush.github.io/amp/webfonts/fa-regular-400.woff2) format("woff2"),url(https://fgitpush.github.io/amp/webfonts/fa-regular-400.woff) format("woff"),url(https://fgitpush.github.io/amp/webfonts/fa-regular-400.ttf) format("truetype"),url(https://fgitpush.github.io/amp/webfonts/fa-regular-400.svg#fontawesome) format("svg");}
 
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 720px) {
 
 body {
     width: 100vw;
