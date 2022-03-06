@@ -11,7 +11,7 @@
  
   <style amp-custom>
 
-.elementor-icon-list-icon{
+.elementor-icon-list-icon,.elementor-icon-list-item::marker{
 display:none;
 }
 
