@@ -10,9 +10,7 @@
   
  
   <style amp-custom>
-.has_eae_slider {
-display:none;
-}
+
 
 
 .fab, .fas {
