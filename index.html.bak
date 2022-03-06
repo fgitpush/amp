@@ -33,36 +33,25 @@ img.emoji {
 	padding: 0 ;
 }
 
-@import url('index_files/eae.min.css');
-@import url('index_files/v4-shims.min.css');
-@import url('index_files/all.min.css');
-@import url('index_files/vegas.min.css');
-@import url('index_files/header-footer-elementor.css');
-
-@import url('index_files/elementor-icons.min.css');
-@import url('index_files/frontend-lite.min.css');
-					
-
-@import url('index_files/post-7.css');
-@import url('index_files/global.css');
-@import url('index_files/post-8.css');
-@import url('index_files/frontend.css');
-
-
-@import url('index_files/style.min(1).css');
-@import url('index_filesindex_files/theme.min.css');
-@import url('index_files/pum-site-styles.css');
-@import url('index_files/frontend.css');
-
-
-
-
-
-
-@import url('index_files/fontawesome.min.css');
-@import url('index_files/solid.min.css');
-@import url('index_files/regular.min.css');
-@import url('index_files/brands.min.css');
+@import url('./index_files/eae.min.css');
+@import url('./index_files/v4-shims.min.css');
+@import url('./index_files/all.min.css');
+@import url('./index_files/vegas.min.css');
+@import url('./index_files/header-footer-elementor.css');
+@import url('./index_files/elementor-icons.min.css');
+@import url('./index_files/frontend-lite.min.css');
+@import url('./index_files/post-7.css');
+@import url('./index_files/global.css');
+@import url('./index_files/post-8.css');
+@import url('./index_files/frontend.css');
+@import url('./index_files/style.min(1).css');
+@import url('./index_filesindex_files/theme.min.css');
+@import url('./index_files/pum-site-styles.css');
+@import url('./index_files/frontend.css');
+@import url('./index_files/fontawesome.min.css');
+@import url('./index_files/solid.min.css');
+@import url('./index_files/regular.min.css');
+@import url('./index_files/brands.min.css');
 </style>
 
 
