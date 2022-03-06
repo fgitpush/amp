@@ -11,7 +11,9 @@
  
   <style amp-custom>
 
-
+.elementor-icon-list-icon{
+display:none;
+}
 
 .fab, .fas {
     -moz-osx-font-smoothing: grayscale;
