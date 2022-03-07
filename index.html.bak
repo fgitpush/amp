@@ -10,7 +10,36 @@
   
  
   <style amp-custom>
+  
+  @media only screen and (max-width: 720px) {
 
+  html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin: 0 0 100px; /* bottom = footer height */
+}
+#bottom-footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 300px;
+	background: #E81123;
+	font-size:30px;
+	padding: 0px 20px;
+	color:#FFF;
+	margin: 0 auto;
+}
+  
+}
+  
+  
+  
+li, ul {
+    list-style: none;
+	}
 .elementor-icon-list-icon,.elementor-icon-list-item::marker{
 display:none;
 }
@@ -583,7 +612,10 @@ Airlines Booking Number</h2>		</div>
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
 					</span>
-						<span class="elementor-button-text">(855) 915-6377</span>
+				
+				
+
+						<span style="font-size:10px;" class="elementor-button-text">(855) 915-6377</span>
 		</span>
 					</a>
 		</div>
@@ -1074,7 +1106,11 @@ Airlines Booking Number</h2>		</div>
 					<div class="elementor-button-wrapper">
 			<a href="tel:+18559156377" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Call Us (855) 915-6377</span>
+			<span style="font-size:10px;">			
+						
+
+						<span class="elementor-button-text">Call Us 
+						(855) 915-6377</span>
 		</span>
 					</a>
 		</div>
@@ -1205,6 +1241,8 @@ Airlines Booking Number</h2>		</div>
 	</div>
 
 </div>
-
+	<div id="bottom-footer">
+		<p>+18559156377</p>
+	</div>
 </body>
 </html>
